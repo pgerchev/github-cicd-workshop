@@ -18,4 +18,4 @@ To begin learning GitHub Actions, you'll create your own GitHub repository and c
 
 
 
-While inside the Gitpod environment, follow the instructions in the `setup.md` file to set up your GitHub repository and configure GitHub Actions.
+While inside the Gitpod environment, follow the instructions in the `setup.md` file to set up your GitHub repository and configure GitHub Actions.git push --set-upstream origin master1
