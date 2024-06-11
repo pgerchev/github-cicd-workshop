@@ -15,7 +15,7 @@ jobs:
         python-version: '3.12'
     # Add step to install dependencies
     - name: install Black 
-      run: pip insatll black
+      run: pip install black
     - name: install Flake8
       run: install flake8
 
